@@ -15,7 +15,7 @@ export default function BedAvailability() {
     { id: "B001", ward: "General", room: "101", status: "Occupied", patient: "Paitent 1", admissionDate: "2023-04-18", expectedDischarge: "2023-04-25" },
     { id: "B002", ward: "General", room: "101", status: "Available", patient: "", admissionDate: "", expectedDischarge: "" },
     { id: "B003", ward: "General", room: "102", status: "Maintenance", patient: "", admissionDate: "", expectedDischarge: "" },
-    { id: "B004", ward: "General", room: "102", status: "Occupied", patient: "paitent 2", admissionDate: "2023-04-19", expectedDischarge: "2023-04-23" },
+    { id: "B004", ward: "General", room: "102", status: "Occupied", patient: "Paitent 2", admissionDate: "2023-04-19", expectedDischarge: "2023-04-23" },
     { id: "B005", ward: "ICU", room: "201", status: "Occupied", patient: "Paitent 3", admissionDate: "2023-04-15", expectedDischarge: "2023-04-30" },
     { id: "B006", ward: "ICU", room: "201", status: "Occupied", patient: "Paitent 4", admissionDate: "2023-04-20", expectedDischarge: "2023-04-27" },
     { id: "B007", ward: "ICU", room: "202", status: "Available", patient: "", admissionDate: "", expectedDischarge: "" },
